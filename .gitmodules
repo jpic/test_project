@@ -1,0 +1,3 @@
+[submodule "test_sub_master"]
+	path = test_sub_master
+	url = https://github.com/jpic/fcgigo.git
